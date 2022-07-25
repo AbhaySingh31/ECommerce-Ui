@@ -62,7 +62,7 @@ const Login = () => {
           <Input placeholder="name" />
           <Input placeholder="Password" />
           <Button>LOGIN</Button>
-          <Link>FORGET PASSWORD? from 31yoyoy to test</Link>
+          <Link>FORGET PASSWORD? test new</Link>
           <Link>CREATE A NEW ACCOUNT</Link>
         </Form>
       </Wrapper>
