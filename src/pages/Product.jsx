@@ -87,7 +87,7 @@ const AddContainer = styled.div`
 const AmountContainer = styled.div`
   display: flex;
   align-items: center;
-  font:weight: 700;
+  font-weight: 700;
 `;
 // const Remove = styled.div``;
 const Amount = styled.div`
@@ -125,7 +125,7 @@ const Product = () => {
         <InfoContainer>
           <Title>Denim Jumpsuit</Title>
           <Desc>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+            Lorem ipsum ipsum dolor sit amet, consectetur adipiscing elit. Donec
             venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
             iaculis arcu nisi sed mauris. Nulla fermentum vestibulum ex, eget
             tristique tortor pretium ut. Curabitur elit justo, consequat id
